@@ -1,0 +1,6 @@
+[project]
+name = "taskman"
+version = "0.1.0"
+description = "Python course training project: Task Manager System"
+requires-python = ">=3.10"
+dependencies = []
