@@ -38,3 +38,8 @@ The system provides a simple text-based menu interface that allows users to:
 2. View existing tasks (with options for sorting and filtering)
 3. Update task information
 4. Delete tasks
+
+### Original Assignment Reference
+
+Original assignment:
+[Python Courses Module 1](https://github.com/PonomaryovVladyslav/PythonCourses/blob/master/module1.md) (in Russian)
